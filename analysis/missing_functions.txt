@@ -97,13 +97,6 @@ ST_GeomFromKML
 ST_GeomFromMARC21
 ST_GeomFromTWKB
 ST_GeometricMedian
-ST_Geometry
-ST_Geometry
-ST_Geometry
-ST_Geometry
-ST_Geometry
-ST_Geometry
-ST_Geometry
 ST_GeometryFromText
 ST_HasArc
 ST_HasM

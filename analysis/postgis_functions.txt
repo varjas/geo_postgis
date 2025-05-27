@@ -115,13 +115,6 @@ ST_GeographyFromText
 ST_GeoHash
 ST_GeomCollFromText
 ST_GeometricMedian
-ST_Geometry
-ST_Geometry
-ST_Geometry
-ST_Geometry
-ST_Geometry
-ST_Geometry
-ST_Geometry
 ST_GeometryFromText
 ST_GeometryN
 ST_GeometryType
