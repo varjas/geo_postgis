@@ -52,6 +52,6 @@ else
   # Default behavior when no arguments provided - use the known path
   PostGISFunctionExtractor.extract_functions(
     "./lib/geo_postgis.ex",
-    "./analysis/postgis_functions.txt"
+    "./analysis/elixir_functions.txt"
   )
 end
